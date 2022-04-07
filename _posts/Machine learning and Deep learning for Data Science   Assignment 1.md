@@ -1,3 +1,7 @@
+---
+layout: single
+title : "MLDL Linear & Logistic Regression, CV method"
+---
 
 Machine learning and Deep learning for Data Science 1
 
